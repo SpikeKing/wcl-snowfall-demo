@@ -1,5 +1,8 @@
 # wcl-snowfall-demo
+
 实现漫天飞雪的动画效果
+
+> 欢迎Follow我的[GitHub](https://github.com/SpikeKing)
 
 博客: http://www.wangchenlong.org/
 
